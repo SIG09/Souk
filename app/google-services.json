@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "387334627118",
+    "project_id": "souk-8eb76",
+    "storage_bucket": "souk-8eb76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387334627118:android:0f580ed754aa3d673764bf",
+        "android_client_info": {
+          "package_name": "com.sig.souk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLT_Txez4PrdFi_iTc0ULb9GgVsR5smNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
